@@ -24,9 +24,9 @@ log.txt
 hs_err_pid*
 
 #secrets class
-secret.java
+**/secret.java
 
 #unecessary directory stuff
 out/
 target/
-**artifacts/
+**/artifacts/
