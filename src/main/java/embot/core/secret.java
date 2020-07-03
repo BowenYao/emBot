@@ -17,7 +17,7 @@ public class secret {
 
     static {
         File secret = new File("secret.json");
-        FileInputStream fis = null;
+        FileInputStream fis;
         try {
             fis = new FileInputStream(secret);
             JsonReader jsonReader = new JsonReader(new InputStreamReader(fis));

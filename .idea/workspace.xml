@@ -7,18 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d06bdc2-3ad8-4a1e-bf7f-a3f3471e6467" name="Default Changelist" comment="Changed the way secrets works">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/secret.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/embot/games/CannibalCommand.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/embot/games/Card.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/embot/games/Deck.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/embot/games/Hand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/emBot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emBotProfile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/embot/core/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/embot/core/Command.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/embot/core/CommandHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/embot/core/CommandHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/embot/core/secret.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/embot/core/secret.java" afterDir="false" />
@@ -104,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1589743109025</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed the way secrets works">
+      <created>1593739423480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593739423481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,10 +144,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="493" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1589743279674" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1593739375345">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1593739422760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593739375345" />
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593739422760" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1593127018124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
