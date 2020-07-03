@@ -4,7 +4,9 @@ import discord4j.core.event.domain.message.MessageCreateEvent;
 import discord4j.core.object.util.Snowflake;
 import reactor.core.publisher.Mono;
 
+import java.awt.*;
 import java.lang.reflect.InvocationTargetException;
+import java.time.Instant;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -24,6 +26,7 @@ public class CommandHandler {
         commands.put("toggle", CommandHandler::toggleCommand);
         commands.put("assign prayer team", CommandHandler::assignPTeamCommand);
         commands.put("kill", CommandHandler::killCommand);
+        commands.put("test",CommandHandler::testCommand);
 
         /*The following SUPER long code essentially does this:
         It gets all the commands listed in a list and then puts in a method which checks if the command is toggled and if the user has permission to use it
@@ -148,9 +151,19 @@ public class CommandHandler {
     //Test command for personal use
     private static Mono<Void> testCommand(MessageCreateEvent event) {
         return event.getMessage().getChannel()
-                .flatMap(channel -> channel.createMessage("Hey! " + Snowflake.of("-1").asString())).then();
+                .flatMap(channel -> channel.createMessage(spec->spec
+                        .setContent("huh this is weird")
+                        .setNonce(event.getMessage().getId())
+                        .setEmbed(embedSpec->embedSpec
+                                .setTitle("Test Embed")
+                                .setDescription("An embed made for testing purposes")
+                                .addField("Another field","What's up",false)
+                                .setTimestamp(Instant.now())
+                                .setColor(Color.ORANGE)
+                               // .setImage("emBotProfile.png")
+                               // .setUrl("www.google.com")
+                                .addField("Testing","Hello",true)))).then();
     }
-
     //Simple get methods
     protected static Map<String, CommandMethod> getCommands() {
         return commands;

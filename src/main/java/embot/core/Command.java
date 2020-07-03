@@ -4,6 +4,7 @@ import discord4j.core.event.domain.message.MessageCreateEvent;
 import discord4j.core.object.entity.Member;
 import discord4j.core.object.entity.Message;
 import discord4j.core.object.util.Permission;
+import embot.games.CannibalCommand;
 import reactor.core.publisher.Mono;
 
 import java.util.ArrayList;
@@ -16,7 +17,7 @@ import java.util.Arrays;
  * TODO perhaps implement feature to check which roles are allowed to access given command
  * */
 public abstract class Command {
-    private static final ArrayList<Class<? extends Command>> commandClasses = new ArrayList<>(Arrays.asList(PlayCommand.class));
+    private static final ArrayList<Class<? extends Command>> commandClasses = new ArrayList<>(Arrays.asList(PlayCommand.class, CannibalCommand.class));
     private final String commandString;
     private final MessageCreateEvent event;
 
