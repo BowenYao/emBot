@@ -4,3 +4,315 @@ Tue May 26 02:41:04 EDT 2020: Saving persistent data
 Tue May 26 02:41:04 EDT 2020: Backing up previous data
 Tue May 26 02:41:04 EDT 2020: Writing persistent data to file
 Tue May 26 02:41:04 EDT 2020: Finished saving data
+Sat May 30 18:56:15 EDT 2020: Loading persistent data
+Sat May 30 18:56:15 EDT 2020: Bot ready
+Sat May 30 18:56:15 EDT 2020: Saving persistent data
+Sat May 30 18:56:15 EDT 2020: Backing up previous data
+Sat May 30 18:56:15 EDT 2020: Writing persistent data to file
+Sat May 30 18:56:15 EDT 2020: Finished saving data
+Sat May 30 18:56:22 EDT 2020: Fatal error in command setup
+Sat May 30 18:56:52 EDT 2020: Loading persistent data
+Sat May 30 18:56:52 EDT 2020: Bot ready
+Sat May 30 18:56:52 EDT 2020: Saving persistent data
+Sat May 30 18:56:52 EDT 2020: Backing up previous data
+Sat May 30 18:56:52 EDT 2020: Writing persistent data to file
+Sat May 30 18:56:52 EDT 2020: Finished saving data
+Sat May 30 19:56:52 EDT 2020: Saving persistent data
+Sat May 30 19:56:52 EDT 2020: Backing up previous data
+Sat May 30 19:56:52 EDT 2020: Writing persistent data to file
+Sat May 30 19:56:52 EDT 2020: Finished saving data
+Sat May 30 20:44:47 EDT 2020: Track lofi hip hop radio - beats to relax/study to loaded
+Sat May 30 20:56:26 EDT 2020: Track lofi hip hop radio - beats to relax/study to loaded
+Sat May 30 20:56:45 EDT 2020: Track lofi hip hop radio - beats to relax/study to loaded
+Sat May 30 20:56:52 EDT 2020: Saving persistent data
+Sat May 30 20:56:52 EDT 2020: Backing up previous data
+Sat May 30 20:56:52 EDT 2020: Writing persistent data to file
+Sat May 30 20:56:52 EDT 2020: Finished saving data
+Sat May 30 21:41:36 EDT 2020: Track lofi hip hop radio - beats to relax/study to loaded
+Sat May 30 21:56:52 EDT 2020: Saving persistent data
+Sat May 30 21:56:52 EDT 2020: Backing up previous data
+Sat May 30 21:56:52 EDT 2020: Writing persistent data to file
+Sat May 30 21:56:52 EDT 2020: Finished saving data
+Sat May 30 22:56:52 EDT 2020: Saving persistent data
+Sat May 30 22:56:52 EDT 2020: Backing up previous data
+Sat May 30 22:56:52 EDT 2020: Writing persistent data to file
+Sat May 30 22:56:52 EDT 2020: Finished saving data
+Sat May 30 23:41:13 EDT 2020: Track pH-1 - PACKITUP! (prod. BMTJ) (Official MV) (SUB ENG) loaded
+Sat May 30 23:42:14 EDT 2020: Track pH-1 - PACKITUP! (prod. BMTJ) (Official MV) (SUB ENG) loaded
+Sat May 30 23:42:30 EDT 2020: Loading persistent data
+Sat May 30 23:42:30 EDT 2020: Bot ready
+Sat May 30 23:42:30 EDT 2020: Saving persistent data
+Sat May 30 23:42:30 EDT 2020: Backing up previous data
+Sat May 30 23:42:30 EDT 2020: Writing persistent data to file
+Sat May 30 23:42:30 EDT 2020: Finished saving data
+Sat May 30 23:42:44 EDT 2020: Track pH-1 - PACKITUP! (prod. BMTJ) (Official MV) (SUB ENG) loaded
+Sat May 30 23:42:47 EDT 2020: Track pH-1 - PACKITUP! (prod. BMTJ) (Official MV) (SUB ENG) loaded
+Sat May 30 23:43:08 EDT 2020: Track pH-1 - PACKITUP! (prod. BMTJ) (Official MV) (SUB ENG) loaded
+Sat May 30 23:46:37 EDT 2020: Track K.K. Good Day (KK Slider vs Ice Cube) loaded
+Sat May 30 23:49:22 EDT 2020: Track Ice Cream Love Stories- Track 06 |Ice Cream Machine| loaded
+Sat May 30 23:52:01 EDT 2020: Track Yozora loaded
+Sat May 30 23:56:49 EDT 2020: Track Loz's magnificent 7-tone fart symphony - the #1 video in the world, for one day in May 2015. loaded
+Sat May 30 23:57:27 EDT 2020: Track Loz's magnificent 7-tone fart symphony - the #1 video in the world, for one day in May 2015. loaded
+Sat May 30 23:58:50 EDT 2020: Track 佐々木恵梨『ふゆびより』 (Music Video) TVアニメ「ゆるキャン」EDテーマ loaded
+Sun May 31 00:42:30 EDT 2020: Saving persistent data
+Sun May 31 00:42:30 EDT 2020: Backing up previous data
+Sun May 31 00:42:30 EDT 2020: Writing persistent data to file
+Sun May 31 00:42:30 EDT 2020: Finished saving data
+Sun May 31 01:13:05 EDT 2020: Track lofi hip hop radio - beats to relax/study to loaded
+Sun May 31 01:42:30 EDT 2020: Saving persistent data
+Sun May 31 01:42:30 EDT 2020: Backing up previous data
+Sun May 31 01:42:30 EDT 2020: Writing persistent data to file
+Sun May 31 01:42:30 EDT 2020: Finished saving data
+Sun May 31 02:42:30 EDT 2020: Saving persistent data
+Sun May 31 02:42:30 EDT 2020: Backing up previous data
+Sun May 31 02:42:30 EDT 2020: Writing persistent data to file
+Sun May 31 02:42:30 EDT 2020: Finished saving data
+Sun May 31 03:42:30 EDT 2020: Saving persistent data
+Sun May 31 03:42:30 EDT 2020: Backing up previous data
+Sun May 31 03:42:30 EDT 2020: Writing persistent data to file
+Sun May 31 03:42:30 EDT 2020: Finished saving data
+Sun May 31 04:42:30 EDT 2020: Saving persistent data
+Sun May 31 04:42:30 EDT 2020: Backing up previous data
+Sun May 31 04:42:30 EDT 2020: Writing persistent data to file
+Sun May 31 04:42:30 EDT 2020: Finished saving data
+Mon Jun 01 16:07:46 EDT 2020: Loading persistent data
+Mon Jun 01 16:07:46 EDT 2020: Bot ready
+Mon Jun 01 16:07:46 EDT 2020: Saving persistent data
+Mon Jun 01 16:07:46 EDT 2020: Backing up previous data
+Mon Jun 01 16:07:46 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:07:46 EDT 2020: Finished saving data
+Mon Jun 01 16:08:30 EDT 2020: Loading persistent data
+Mon Jun 01 16:08:30 EDT 2020: Bot ready
+Mon Jun 01 16:08:31 EDT 2020: Saving persistent data
+Mon Jun 01 16:08:31 EDT 2020: Backing up previous data
+Mon Jun 01 16:08:31 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:08:31 EDT 2020: Finished saving data
+Mon Jun 01 16:10:20 EDT 2020: Loading persistent data
+Mon Jun 01 16:10:20 EDT 2020: Bot ready
+Mon Jun 01 16:10:20 EDT 2020: Saving persistent data
+Mon Jun 01 16:10:20 EDT 2020: Backing up previous data
+Mon Jun 01 16:10:20 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:10:20 EDT 2020: Finished saving data
+Mon Jun 01 16:11:50 EDT 2020: Loading persistent data
+Mon Jun 01 16:11:50 EDT 2020: Bot ready
+Mon Jun 01 16:11:50 EDT 2020: Saving persistent data
+Mon Jun 01 16:11:50 EDT 2020: Backing up previous data
+Mon Jun 01 16:11:50 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:11:50 EDT 2020: Finished saving data
+Mon Jun 01 16:12:43 EDT 2020: Loading persistent data
+Mon Jun 01 16:12:43 EDT 2020: Bot ready
+Mon Jun 01 16:12:43 EDT 2020: Saving persistent data
+Mon Jun 01 16:12:43 EDT 2020: Backing up previous data
+Mon Jun 01 16:12:43 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:12:43 EDT 2020: Finished saving data
+Mon Jun 01 16:13:57 EDT 2020: Loading persistent data
+Mon Jun 01 16:13:57 EDT 2020: Bot ready
+Mon Jun 01 16:13:57 EDT 2020: Saving persistent data
+Mon Jun 01 16:13:57 EDT 2020: Backing up previous data
+Mon Jun 01 16:13:57 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:13:57 EDT 2020: Finished saving data
+Mon Jun 01 16:14:54 EDT 2020: Loading persistent data
+Mon Jun 01 16:14:54 EDT 2020: Bot ready
+Mon Jun 01 16:14:54 EDT 2020: Saving persistent data
+Mon Jun 01 16:14:54 EDT 2020: Backing up previous data
+Mon Jun 01 16:14:54 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:14:55 EDT 2020: Finished saving data
+Mon Jun 01 16:17:02 EDT 2020: Loading persistent data
+Mon Jun 01 16:17:02 EDT 2020: Bot ready
+Mon Jun 01 16:17:02 EDT 2020: Saving persistent data
+Mon Jun 01 16:17:02 EDT 2020: Backing up previous data
+Mon Jun 01 16:17:02 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:17:02 EDT 2020: Finished saving data
+Mon Jun 01 16:17:52 EDT 2020: Loading persistent data
+Mon Jun 01 16:17:52 EDT 2020: Bot ready
+Mon Jun 01 16:17:52 EDT 2020: Saving persistent data
+Mon Jun 01 16:17:52 EDT 2020: Backing up previous data
+Mon Jun 01 16:17:52 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:17:52 EDT 2020: Finished saving data
+Mon Jun 01 16:18:19 EDT 2020: Loading persistent data
+Mon Jun 01 16:18:19 EDT 2020: Bot ready
+Mon Jun 01 16:18:19 EDT 2020: Saving persistent data
+Mon Jun 01 16:18:19 EDT 2020: Backing up previous data
+Mon Jun 01 16:18:19 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:18:19 EDT 2020: Finished saving data
+Mon Jun 01 16:19:41 EDT 2020: Loading persistent data
+Mon Jun 01 16:19:41 EDT 2020: Bot ready
+Mon Jun 01 16:19:41 EDT 2020: Saving persistent data
+Mon Jun 01 16:19:41 EDT 2020: Backing up previous data
+Mon Jun 01 16:19:41 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:19:41 EDT 2020: Finished saving data
+Mon Jun 01 16:20:40 EDT 2020: Loading persistent data
+Mon Jun 01 16:20:40 EDT 2020: Bot ready
+Mon Jun 01 16:20:40 EDT 2020: Saving persistent data
+Mon Jun 01 16:20:40 EDT 2020: Backing up previous data
+Mon Jun 01 16:20:40 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:20:40 EDT 2020: Finished saving data
+Mon Jun 01 16:24:44 EDT 2020: Loading persistent data
+Mon Jun 01 16:24:44 EDT 2020: Bot ready
+Mon Jun 01 16:24:44 EDT 2020: Saving persistent data
+Mon Jun 01 16:24:44 EDT 2020: Backing up previous data
+Mon Jun 01 16:24:44 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:24:44 EDT 2020: Finished saving data
+Mon Jun 01 16:25:50 EDT 2020: Loading persistent data
+Mon Jun 01 16:25:50 EDT 2020: Bot ready
+Mon Jun 01 16:25:50 EDT 2020: Saving persistent data
+Mon Jun 01 16:25:50 EDT 2020: Backing up previous data
+Mon Jun 01 16:25:50 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:25:50 EDT 2020: Finished saving data
+Mon Jun 01 16:27:14 EDT 2020: Loading persistent data
+Mon Jun 01 16:27:14 EDT 2020: Bot ready
+Mon Jun 01 16:27:14 EDT 2020: Saving persistent data
+Mon Jun 01 16:27:14 EDT 2020: Backing up previous data
+Mon Jun 01 16:27:14 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:27:14 EDT 2020: Finished saving data
+Mon Jun 01 16:34:38 EDT 2020: Loading persistent data
+Mon Jun 01 16:34:38 EDT 2020: Bot ready
+Mon Jun 01 16:34:38 EDT 2020: Saving persistent data
+Mon Jun 01 16:34:38 EDT 2020: Backing up previous data
+Mon Jun 01 16:34:38 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:34:38 EDT 2020: Finished saving data
+Mon Jun 01 16:35:10 EDT 2020: Loading persistent data
+Mon Jun 01 16:35:10 EDT 2020: Bot ready
+Mon Jun 01 16:35:10 EDT 2020: Saving persistent data
+Mon Jun 01 16:35:10 EDT 2020: Backing up previous data
+Mon Jun 01 16:35:10 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:35:10 EDT 2020: Finished saving data
+Mon Jun 01 16:36:11 EDT 2020: Loading persistent data
+Mon Jun 01 16:36:11 EDT 2020: Bot ready
+Mon Jun 01 16:36:11 EDT 2020: Saving persistent data
+Mon Jun 01 16:36:11 EDT 2020: Backing up previous data
+Mon Jun 01 16:36:11 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:36:11 EDT 2020: Finished saving data
+Mon Jun 01 16:38:22 EDT 2020: Loading persistent data
+Mon Jun 01 16:38:22 EDT 2020: Bot ready
+Mon Jun 01 16:38:22 EDT 2020: Saving persistent data
+Mon Jun 01 16:38:22 EDT 2020: Backing up previous data
+Mon Jun 01 16:38:22 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:38:22 EDT 2020: Finished saving data
+Mon Jun 01 16:38:37 EDT 2020: Loading persistent data
+Mon Jun 01 16:38:37 EDT 2020: Bot ready
+Mon Jun 01 16:38:37 EDT 2020: Saving persistent data
+Mon Jun 01 16:38:37 EDT 2020: Backing up previous data
+Mon Jun 01 16:38:37 EDT 2020: Writing persistent data to file
+Mon Jun 01 16:38:37 EDT 2020: Finished saving data
+Mon Jun 01 17:38:37 EDT 2020: Saving persistent data
+Mon Jun 01 17:38:37 EDT 2020: Backing up previous data
+Mon Jun 01 17:38:37 EDT 2020: Writing persistent data to file
+Mon Jun 01 17:38:37 EDT 2020: Finished saving data
+Mon Jun 01 20:58:44 EDT 2020: Loading persistent data
+Mon Jun 01 20:58:44 EDT 2020: Bot ready
+Mon Jun 01 20:58:44 EDT 2020: Saving persistent data
+Mon Jun 01 20:58:44 EDT 2020: Backing up previous data
+Mon Jun 01 20:58:44 EDT 2020: Writing persistent data to file
+Mon Jun 01 20:58:44 EDT 2020: Finished saving data
+Mon Jun 01 21:06:29 EDT 2020: Track Jessie Reyez - KILL US (Audio) loaded
+Mon Jun 01 21:10:45 EDT 2020: Loading persistent data
+Mon Jun 01 21:10:45 EDT 2020: Bot ready
+Mon Jun 01 21:10:45 EDT 2020: Saving persistent data
+Mon Jun 01 21:10:45 EDT 2020: Backing up previous data
+Mon Jun 01 21:10:45 EDT 2020: Writing persistent data to file
+Mon Jun 01 21:10:45 EDT 2020: Finished saving data
+Mon Jun 01 21:11:19 EDT 2020: Track lofi hip hop radio - beats to relax/study to loaded
+Mon Jun 01 22:10:45 EDT 2020: Saving persistent data
+Mon Jun 01 22:10:45 EDT 2020: Backing up previous data
+Mon Jun 01 22:10:45 EDT 2020: Writing persistent data to file
+Mon Jun 01 22:10:45 EDT 2020: Finished saving data
+Mon Jun 01 23:10:45 EDT 2020: Saving persistent data
+Mon Jun 01 23:10:45 EDT 2020: Backing up previous data
+Mon Jun 01 23:10:45 EDT 2020: Writing persistent data to file
+Mon Jun 01 23:10:45 EDT 2020: Finished saving data
+Tue Jun 02 00:10:45 EDT 2020: Saving persistent data
+Tue Jun 02 00:10:45 EDT 2020: Backing up previous data
+Tue Jun 02 00:10:45 EDT 2020: Writing persistent data to file
+Tue Jun 02 00:10:45 EDT 2020: Finished saving data
+Tue Jun 02 00:34:58 EDT 2020: Disconnecting...
+Tue Jun 02 00:34:58 EDT 2020: Saving persistent data
+Tue Jun 02 00:34:58 EDT 2020: Backing up previous data
+Tue Jun 02 00:34:58 EDT 2020: Writing persistent data to file
+Tue Jun 02 00:34:58 EDT 2020: Finished saving data
+Wed Jun 03 22:23:03 EDT 2020: Loading persistent data
+Wed Jun 03 22:23:03 EDT 2020: Bot ready
+Wed Jun 03 22:23:03 EDT 2020: Saving persistent data
+Wed Jun 03 22:23:03 EDT 2020: Backing up previous data
+Wed Jun 03 22:23:03 EDT 2020: Writing persistent data to file
+Wed Jun 03 22:23:03 EDT 2020: Finished saving data
+Wed Jun 03 22:29:50 EDT 2020: Loading persistent data
+Wed Jun 03 22:29:50 EDT 2020: Bot ready
+Wed Jun 03 22:29:50 EDT 2020: Saving persistent data
+Wed Jun 03 22:29:50 EDT 2020: Backing up previous data
+Wed Jun 03 22:29:50 EDT 2020: Writing persistent data to file
+Wed Jun 03 22:29:50 EDT 2020: Finished saving data
+Wed Jun 03 22:36:29 EDT 2020: Track Mr. Probz - Waves (Robin Schulz Remix Radio Edit) loaded
+Wed Jun 03 22:44:12 EDT 2020: Track Wonderwall (Saxofon Acoustic Guitar Cover Instrumental) loaded
+Wed Jun 03 22:48:39 EDT 2020: Loading persistent data
+Wed Jun 03 22:48:39 EDT 2020: Bot ready
+Wed Jun 03 22:48:39 EDT 2020: Saving persistent data
+Wed Jun 03 22:48:39 EDT 2020: Backing up previous data
+Wed Jun 03 22:48:39 EDT 2020: Writing persistent data to file
+Wed Jun 03 22:48:39 EDT 2020: Finished saving data
+Wed Jun 03 22:50:27 EDT 2020: Loading persistent data
+Wed Jun 03 22:50:27 EDT 2020: Bot ready
+Wed Jun 03 22:50:27 EDT 2020: Saving persistent data
+Wed Jun 03 22:50:27 EDT 2020: Backing up previous data
+Wed Jun 03 22:50:27 EDT 2020: Writing persistent data to file
+Wed Jun 03 22:50:27 EDT 2020: Finished saving data
+Wed Jun 03 22:51:17 EDT 2020: Loading persistent data
+Wed Jun 03 22:51:17 EDT 2020: Bot ready
+Wed Jun 03 22:51:17 EDT 2020: Saving persistent data
+Wed Jun 03 22:51:17 EDT 2020: Backing up previous data
+Wed Jun 03 22:51:17 EDT 2020: Writing persistent data to file
+Wed Jun 03 22:51:17 EDT 2020: Finished saving data
+Wed Jun 03 22:51:39 EDT 2020: Playlist Top Tracks - Saxophone Rufus loaded.
+ Playing track Shallow loaded
+Wed Jun 03 22:55:56 EDT 2020: Playlist Top Tracks - Saxophone Rufus loaded.
+ Playing track If I Ain't Got You loaded
+Wed Jun 03 23:00:46 EDT 2020: Disconnecting...
+Wed Jun 03 23:00:46 EDT 2020: Saving persistent data
+Wed Jun 03 23:00:46 EDT 2020: Backing up previous data
+Wed Jun 03 23:00:46 EDT 2020: Writing persistent data to file
+Wed Jun 03 23:00:46 EDT 2020: Finished saving data
+Mon Jun 08 00:16:06 EDT 2020: Loading persistent data
+Mon Jun 08 00:16:06 EDT 2020: Bot ready
+Mon Jun 08 00:16:06 EDT 2020: Saving persistent data
+Mon Jun 08 00:16:06 EDT 2020: Backing up previous data
+Mon Jun 08 00:16:06 EDT 2020: Writing persistent data to file
+Mon Jun 08 00:16:06 EDT 2020: Finished saving data
+Mon Jun 08 00:16:36 EDT 2020: Loading persistent data
+Mon Jun 08 00:16:36 EDT 2020: Bot ready
+Mon Jun 08 00:16:36 EDT 2020: Saving persistent data
+Mon Jun 08 00:16:36 EDT 2020: Backing up previous data
+Mon Jun 08 00:16:36 EDT 2020: Writing persistent data to file
+Mon Jun 08 00:16:36 EDT 2020: Finished saving data
+Mon Jun 08 00:17:41 EDT 2020: Loading persistent data
+Mon Jun 08 00:17:41 EDT 2020: Bot ready
+Mon Jun 08 00:17:41 EDT 2020: Saving persistent data
+Mon Jun 08 00:17:41 EDT 2020: Backing up previous data
+Mon Jun 08 00:17:41 EDT 2020: Writing persistent data to file
+Mon Jun 08 00:17:41 EDT 2020: Finished saving data
+Mon Jun 08 00:19:01 EDT 2020: Loading persistent data
+Mon Jun 08 00:19:01 EDT 2020: Bot ready
+Mon Jun 08 00:19:01 EDT 2020: Saving persistent data
+Mon Jun 08 00:19:01 EDT 2020: Backing up previous data
+Mon Jun 08 00:19:01 EDT 2020: Writing persistent data to file
+Mon Jun 08 00:19:01 EDT 2020: Finished saving data
+Mon Jun 08 00:21:40 EDT 2020: Track lofi hip hop radio - beats to relax/study to loaded
+Thu Jul 02 19:00:13 EDT 2020: Loading persistent data
+Thu Jul 02 19:00:13 EDT 2020: Bot ready
+Thu Jul 02 19:00:13 EDT 2020: Saving persistent data
+Thu Jul 02 19:00:13 EDT 2020: Backing up previous data
+Thu Jul 02 19:00:13 EDT 2020: Writing persistent data to file
+Thu Jul 02 19:00:13 EDT 2020: Finished saving data
+Thu Jul 02 20:00:13 EDT 2020: Saving persistent data
+Thu Jul 02 20:00:13 EDT 2020: Backing up previous data
+Thu Jul 02 20:00:13 EDT 2020: Writing persistent data to file
+Thu Jul 02 20:00:13 EDT 2020: Finished saving data
+Thu Jul 02 21:00:13 EDT 2020: Saving persistent data
+Thu Jul 02 21:00:13 EDT 2020: Backing up previous data
+Thu Jul 02 21:00:13 EDT 2020: Writing persistent data to file
+Thu Jul 02 21:00:13 EDT 2020: Finished saving data
+Thu Jul 02 21:19:48 EDT 2020: Loading persistent data
+Thu Jul 02 21:19:48 EDT 2020: Bot ready
+Thu Jul 02 21:19:48 EDT 2020: Saving persistent data
+Thu Jul 02 21:19:48 EDT 2020: Backing up previous data
+Thu Jul 02 21:19:48 EDT 2020: Writing persistent data to file
+Thu Jul 02 21:19:48 EDT 2020: Finished saving data
